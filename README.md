@@ -42,3 +42,10 @@ mkdir job-portol/
 │   ├── node_modules/
 │   └── package.json
 └── README.md
+
+
+
+DEMO
+frontend: https://india-job-portol.vercel.app/
+
+backend:https://india-job-portol.onrender.com
