@@ -1,6 +1,12 @@
 # 💼 India Job Portal 
 A comprehensive, full-stack MERN (MongoDB, Express.js, React, Node.js) web application designed to connect job seekers with employers across India. This platform facilitates seamless job postings, application tracking, and user profile management with real-time data persistence.
 ---
+
+DEMO
+frontend:  https://india-job-portol.vercel.app/
+
+backend:   https://india-job-portol.onrender.com
+
 ## 🚀 Features
 ### 👤 User Authentication & Roles
 *   **Secure Sign-Up & Login:** Integrated authentication to protect user dashboards.
@@ -42,10 +48,3 @@ mkdir job-portol/
 │   ├── node_modules/
 │   └── package.json
 └── README.md
-
-
-
-DEMO
-frontend: https://india-job-portol.vercel.app/
-
-backend:https://india-job-portol.onrender.com
